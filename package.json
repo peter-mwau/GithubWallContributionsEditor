@@ -1,0 +1,24 @@
+{
+  "name": "githubwallcontributionseditor",
+  "version": "1.0.0",
+  "description": "Its a js program that can be used to help you edit your contributions to github. NB: Only for learning purposes but not to be used for malicious purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peter-mwau/GithubWallContributionsEditor.git"
+  },
+  "author": "peter-mwau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peter-mwau/GithubWallContributionsEditor/issues"
+  },
+  "homepage": "https://github.com/peter-mwau/GithubWallContributionsEditor#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "simple-git": "^3.19.1"
+  }
+}
